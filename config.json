@@ -1,6 +1,6 @@
 {
-	"ip":"les_potes_RP.aternos.me",
+	"ip":"adresse-ip-du-serveur.minecraft.mc",
 	"port": "25565",
-	"name": "Philibert",
+	"name": "nom-du-bot",
 	"auto-night-skip":"true"
 }
